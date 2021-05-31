@@ -4,7 +4,7 @@
 
 ### iOS
 
-![iOS Preview](./ios.gif)
+![iOS Preview](./ios.gif =288x640)
 
 
 ### Android
