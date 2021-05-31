@@ -4,11 +4,12 @@
 
 ### iOS
 
-![iOS Preview](./preview-ios.gif)
+![iOS Preview](./ios.gif)
+
 
 ### Android
  
-- [ ] TODO
+ ![Android Preview](./android.gif)
 
 ### Mostly automatic installation
 
