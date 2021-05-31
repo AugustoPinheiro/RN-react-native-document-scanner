@@ -4,12 +4,12 @@
 
 ### iOS
 
-![iOS Preview](./ios.gif)
+![iOS Preview](./ios.gif =250x250)
 
 
 ### Android
  
- ![Android Preview](./android.gif)
+ ![Android Preview](./android.gif =250x250)
 
 ### Mostly automatic installation
 
