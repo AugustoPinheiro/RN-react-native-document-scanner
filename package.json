@@ -1,27 +1,26 @@
 {
-  "name": "example",
-  "version": "0.0.1",
-  "private": true,
+  "name": "react-native-document-scanner",
+  "description": "Scan documents, automatic border detection, automatic crop",
+  "version": "1.4.3",
+  "main": "index.js",
   "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start",
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AugustoPinheiro/react-native-document-scanner"
+  },
+  "keywords": [
+    "react-native",
+    "scanner",
+    "ios"
+  ],
+  "author": "Augusto Pinheiro",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "0.49.3"
   },
   "dependencies": {
-    "react": "16.8.3",
-    "react-native": "0.59.10",
-    "react-native-camera": "3.0.1",
-    "react-native-document-scanner": "../",
-    "react-native-svg": "9.6.2"
-  },
-  "devDependencies": {
-    "@babel/core": "7.5.5",
-    "@babel/runtime": "7.5.5",
-    "babel-jest": "24.8.0",
-    "jest": "24.8.0",
-    "metro-react-native-babel-preset": "0.55.0",
-    "react-test-renderer": "16.8.3"
-  },
-  "jest": {
-    "preset": "react-native"
+    "react": "16.0.0-beta.5"
   }
 }
