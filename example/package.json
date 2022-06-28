@@ -10,7 +10,7 @@
     "react": "16.8.3",
     "react-native": "0.59.10",
     "react-native-camera": "3.0.1",
-    "react-native-document-scanner": "/module/",
+    "react-native-document-scanner": "file:../",
     "react-native-svg": "9.6.2"
   },
   "devDependencies": {
